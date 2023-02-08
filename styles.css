@@ -20,6 +20,7 @@ img {
 body {
   background: rgb(248,255,121);
   background: linear-gradient(90deg, rgba(248,255,121,1) 0%, rgba(255,191,72,1) 50%, rgba(89,249,102,1) 100%);
+  text-align: center;
 }
 hr {
   border-style: dotted none none;
@@ -57,3 +58,4 @@ h1, h3, strong {
 .div3{
   margin-top: 5%;
 }
+
