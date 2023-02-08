@@ -10,7 +10,7 @@ tfoot {
 }*/
 
 p {
-  color: red
+  color: rgb(0, 0, 0)
 }
 
 img {
@@ -18,7 +18,8 @@ img {
 }
 
 body {
-  background-color:#DDDDDD;
+  background: rgb(248,255,121);
+  background: linear-gradient(90deg, rgba(248,255,121,1) 0%, rgba(255,191,72,1) 50%, rgba(89,249,102,1) 100%);
 }
 hr {
   border-style: dotted none none;
@@ -27,6 +28,23 @@ hr {
   width: 30%;
 }
 h1, h3, strong {
-  color: #42855B;
+  color: #000000;
 }
+.div1{
+  margin-left: 2%;
+  margin-top: 5%;
+}
+.btn1{
+  background-color:  chocolate;
+  font-size: 20px;
+  border-radius: 15%;
+  margin-left: 2%;
+  margin-bottom: 1%;
 
+}
+.btn1:hover{
+  background-color: white;
+}
+.a1{
+  color: black;
+}
